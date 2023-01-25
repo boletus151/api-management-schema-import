@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Microsoft.Azure.ApiManagement.XmlSchemaProcessor.Common\XmlSchemaProcessor.Common.csproj" />
+    <ProjectReference Include="..\XmlSchemaProcessor.Common\XmlSchemaProcessor.Common.csproj" />
   </ItemGroup>
 
 </Project>

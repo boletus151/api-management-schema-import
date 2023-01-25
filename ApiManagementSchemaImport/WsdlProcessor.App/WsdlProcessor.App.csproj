@@ -10,7 +10,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Microsoft.Azure.ApiManagement.WsdlProcessor.Common\WsdlProcessor.Common.csproj" />
+    <ProjectReference Include="..\WsdlProcessor.Common\WsdlProcessor.Common.csproj" />
   </ItemGroup>
 
 </Project>
