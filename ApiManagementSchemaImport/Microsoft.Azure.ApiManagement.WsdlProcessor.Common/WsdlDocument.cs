@@ -6,6 +6,7 @@
 
 namespace Microsoft.Azure.ApiManagement.WsdlProcessor.Common
 {
+    using global::WsdlProcessor.Common;
     using System;
     using System.Collections.Generic;
     using System.IO;
